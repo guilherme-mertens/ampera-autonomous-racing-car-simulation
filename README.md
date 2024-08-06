@@ -29,11 +29,11 @@ python src/main.py
 
 This script will start the threads for perception, mapping, path planning, and control, and will run the autonomous vehicle in the simulator.
 
-![Computer Vision for Object Detection](imgs\car_view.png)
+![Computer Vision for Object Detection](imgs/car_view.png)
 
-![Track view](imgs\map.png)
+![Track view](imgs/map.png)
 
-![SLAM result](imgs\slam.png)
+![SLAM result](imgs/slam.png)
 
 
 
